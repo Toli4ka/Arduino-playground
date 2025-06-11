@@ -1,4 +1,4 @@
-# 🕹️ Tamagotchi-Style LCD Game (Arduino Nano)
+# 🕹️ Retro-Style LCD Game (Arduino Uno)
 
 A simple LCD-based game inspired by retro handheld toys, built using an Arduino Nano. The player moves a character (the "man") toward the doors on either side of the screen. Reach a door and win the game — complete with sound and animation!
 
@@ -16,7 +16,7 @@ A simple LCD-based game inspired by retro handheld toys, built using an Arduino 
 
 ## 🛠️ Hardware Requirements
 
-- **Arduino Nano** (or compatible)
+- **Arduino Uno** (or compatible)
 - **I2C LCD Display** (16x2, typically at address `0x27`)
 - **2 Push Buttons**
 - **Piezo Buzzer**
